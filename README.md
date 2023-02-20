@@ -44,6 +44,7 @@ Terraform will ask to provide value of different variables. In the discription f
 Run terraform apply "solution.plan"
 
 Output
+
 terrform will create following resourses:
         1. Resource group
         2. Virtual network
